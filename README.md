@@ -1,2 +1,2 @@
-# bootstrap-web
-This is a repository about bootstrap-web
+# rprojekti-final
+This is a repository about projekti-final
